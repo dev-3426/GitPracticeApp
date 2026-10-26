@@ -8,3 +8,5 @@ Console.Write("Enter your choice: ");
 string? choice = Console.ReadLine();
 
 Console.WriteLine($"You selected: {choice}");
+Console.WriteLine("Git practice is going well!");
+Console.WriteLine("This is my second version.");
